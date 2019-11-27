@@ -1,0 +1,3 @@
+23:55:48.725 [main] INFO  random_Num.Random_NumberCreation - Value input by the user is within the minimum and the maximum limit defined
+23:55:48.728 [main] INFO  random_Num.Random_NumberCreation - TestCase Failed
+23:55:48.730 [main] ERROR random_Num.Random_NumberCreation - class java.lang.Error
